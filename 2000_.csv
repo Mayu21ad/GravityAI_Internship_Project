@@ -1,0 +1,501 @@
+ID,Institution Name,CITY,STABBR,Latitude,Longitude
+169248,Central Michigan University,Mount Pleasant,MI,43.58355,-84.7746404
+169275,Mott Community College,Flint,MI,43.0203856,-83.6726519
+169284,Empire Beauty School-Michigan,Grand Rapids,MI,42.9733196,-85.767748
+169327,Cleary University,Howell,MI,42.587466,-83.8804811
+169363,Concordia University Ann Arbor,Ann Arbor,MI,42.2763047,-83.6825447
+169424,Cranbrook Academy of Art,Bloomfield Hills,MI,42.5686224,-83.2512345
+169442,College for Creative Studies,Detroit,MI,42.36128,-83.0630446
+169479,Davenport University,Grand Rapids,MI,43.6133121,-84.1832638
+169503,David Pressley School of Cosmetology,Royal Oak,MI,42.479765,-83.1459655
+169521,Delta College,University Center,MI,43.556617,-83.9843639
+169576,Detroit Business Institute-Downriver,Riverview,MI,35.313271,-77.783597
+169655,MIAT College of Technology,Canton,MI,37.475628,-82.523527
+169716,University of Detroit Mercy,Detroit,MI,42.4140319,-83.1378601
+169761,Dorsey College,Madison Heights,MI,39.4087096,-76.5956544
+169798,Eastern Michigan University,Ypsilanti,MI,42.252349,-83.6228413
+169813,Creative Hair School of Cosmetology,Flint,MI,30.523038,-87.900446
+169910,Ferris State University,Big Rapids,MI,43.6828521,-85.4836192
+169974,Glen Oaks Community College,Centreville,MI,41.8922222,-85.4972222
+169983,Kettering University,Flint,MI,43.0140422,-83.7140044
+169992,Gogebic Community College,Ironwood,MI,47.1030706,-88.5936296
+170000,Grace Christian University,Wyoming,MI,42.9192318,-85.6921721
+170037,Cornerstone University,Grand Rapids,MI,42.9808891,-85.5957424
+170055,Grand Rapids Community College,Grand Rapids,MI,42.9665672,-85.665001
+170082,Grand Valley State University,Allendale,MI,42.9678586,-85.899649
+170091,Great Lakes Christian College,Lansing,MI,42.7543146,-84.6385116
+170240,Henry Ford College,Dearborn,MI,42.3248168,-83.2374531
+170286,Hillsdale College,Hillsdale,MI,41.9318835,-84.6302306
+170301,Hope College,Holland,MI,42.7867245,-86.0996427
+170444,Jackson College,Jackson,MI,42.165453,-84.4032521
+170532,Kalamazoo College,Kalamazoo,MI,42.2907573,-85.5993647
+170541,Kalamazoo Valley Community College,Kalamazoo,MI,42.2258902,-85.6826527
+170550,Kellogg Community College,Battle Creek,MI,42.3355963,-85.1783259
+170587,Kirtland Community College,Grayling,MI,44.4907631,-84.4113498
+170611,Michigan College of Beauty-Monroe,Monroe,MI,32.973078,-111.575678
+170620,Lake Michigan College,Benton Harbor,MI,42.0956412,-86.393483
+170639,Lake Superior State University,Sault Ste Marie,MI,46.4903164,-84.3660154
+170657,Lansing Community College,Lansing,MI,42.7379548,-84.5530234
+170675,Lawrence Technological University,Southfield,MI,42.4752647,-83.2506373
+170736,M J Murphy Beauty College of Mount Pleasant,Mount Pleasant,MI,35.536065,-87.21564
+170790,Macomb Community College,Warren,MI,42.5054107,-82.9730483
+170806,Madonna University,Livonia,MI,42.3911354,-83.4103413
+170967,Rochester University,Rochester Hills,MI,42.6686979,-83.1423933
+170976,University of Michigan-Ann Arbor,Ann Arbor,MI,42.2942142,-83.7100389
+171012,The Michigan Barber School,Detroit,MI,39.050606,-120.754274
+171100,Michigan State University,East Lansing,MI,42.7023794,-84.4803869
+171128,Michigan Technological University,Houghton,MI,47.1099114,-88.5511513
+171137,University of Michigan-Dearborn,Dearborn,MI,42.3172294,-83.2319394
+171146,University of Michigan-Flint,Flint,MI,43.0190005,-83.6889868
+171155,Mid Michigan College,Harrison,MI,43.6023313,-84.7302471
+171225,Monroe County Community College,Monroe,MI,41.9165863,-83.4690733
+171234,Montcalm Community College,Sidney,MI,43.255403,-85.0999131
+171304,Muskegon Community College,Muskegon,MI,43.2477608,-86.196485
+171395,North Central Michigan College,Petoskey,MI,45.3557888,-84.9454474
+171456,Northern Michigan University,Marquette,MI,46.5613243,-87.4104811
+171483,Northwestern Michigan College,Traverse City,MI,44.7664786,-85.5798466
+171492,Northwood University,Midland,MI,43.6311535,-84.2768176
+171535,Oakland Community College,Auburn Hills,MI,42.4559438,-83.213653
+171571,Oakland University,Rochester Hills,MI,42.6666333,-83.2065575
+171599,Olivet College,Olivet,MI,42.4406147,-84.9237516
+171775,Port Huron Cosmetology College,Waterford,MI,42.984014,-82.467461
+171881,Kuyper College,Grand Rapids,MI,43.0221204,-85.5922112
+171988,Ross Medical Education Center-Lansing,Lansing,MI,36.909046,-76.701067
+171997,Ross Medical Education Center-Warren,Warren,MI,43.554634,-90.903019
+172015,Ross Medical Education Center-Flint,Flint,MI,45.17537,-93.00817
+172033,Sacred Heart Major Seminary,Detroit,MI,42.3744729,-83.1111901
+172051,Saginaw Valley State University,University Center,MI,43.5132238,-83.965027
+172200,Schoolcraft Community College District,Livonia,MI,38.841087,-76.90153
+172264,Siena Heights University,Adrian,MI,41.9062844,-84.0179652
+172291,St Clair County Community College,Port Huron,MI,35.811616,-77.447923
+172307,Southwestern Michigan College,Dowagiac,MI,41.9661071,-86.0829737
+172334,Spring Arbor University,Spring Arbor,MI,42.2080018,-84.5563388
+172422,Michigan Career and Technical Institute,Plainwell,MI,42.5039746,-85.5174727
+172440,Finlandia University,Hancock,MI,47.1299391,-88.602633
+172477,Western Michigan University-Thomas M. Cooley Law School,Lansing,MI,32.868567,-117.228836
+172495,Twin City Beauty College,Saint Joseph,MI,38.285517,-121.456144
+172608,Walsh College,Troy,MI,42.5738544,-83.1454981
+172617,Washtenaw Community College,Ann Arbor,MI,42.2631875,-83.6650462
+172635,Wayne County Community College District,Detroit,MI,42.2171587,-83.2409116
+172644,Wayne State University,Detroit,MI,42.3572051,-83.0709498
+172671,West Shore Community College,Scottville,MI,44.0098532,-86.3300827
+172680,Paul Mitchell the School-Grand Rapids,Kentwood,MI,33.251775,-82.640444
+172699,Western Michigan University,Kalamazoo,MI,42.2833375,-85.6095067
+172705,Western Theological Seminary,Holland,MI,42.7865938,-86.1042031
+172866,Academy College,Bloomington,MN,40.494475,-77.48319
+172918,Alexandria Technical & Community College,Alexandria,MN,45.8719648,-95.3728295
+172954,Anoka Technical College,Anoka,MN,45.2167365,-93.4165538
+172963,Anoka-Ramsey Community College,Coon Rapids,MN,45.5704735,-93.2421376
+173045,Augsburg University,Minneapolis,MN,44.9662364,-93.2411047
+173063,Riverland Community College,Austin,MN,43.676699,-93.0011044
+173115,Northwest Technical College,Bemidji,MN,41.4523971,-84.2985428
+173124,Bemidji State University,Bemidji,MN,47.4850208,-94.8740784
+173142,Bethany Lutheran College,Mankato,MN,44.1667413,-93.9910428
+173160,Bethel University,Saint Paul,MN,45.0598639,-93.1639778
+173203,Central Lakes College-Brainerd,Brainerd,MN,46.3454119,-94.2170921
+173258,Carleton College,Northfield,MN,44.4718353,-93.1414581
+173300,Concordia College at Moorhead,Moorhead,MN,38.942465,-93.585167
+173328,Concordia University-Saint Paul,Saint Paul,MN,44.9477881,-93.1587913
+173416,Dakota County Technical College,Rosemount,MN,44.7396307,-93.0781235
+173452,Martin Luther College,New Ulm,MN,44.3044386,-94.471825
+173461,Lake Superior College,Duluth,MN,46.7845476,-92.1452014
+173559,Minnesota State Community and Technical College,Fergus Falls,MN,44.093963,-91.748675
+173638,Minnesota West Community and Technical College,Granite Falls,MN,43.6206593,-95.0029007
+173647,Gustavus Adolphus College,Saint Peter,MN,44.3217827,-93.9740481
+173665,Hamline University,Saint Paul,MN,44.9665114,-93.1645864
+173683,Hazelden Betty Ford Graduate School of Addiction Studies,Center City,MN,42.899569,-110.93509
+173708,Hennepin Technical College,Brooklyn Park,MN,45.0991885,-93.3990528
+173735,Minnesota North College,Hibbing,MN,47.9090782,-91.8329018
+173744,Aveda Arts & Sciences Institute Minneapolis,Minneapolis,MN,45.050636,-93.390662
+173799,Inver Hills Community College,Inver Grove Heights,MN,44.8294539,-93.0553243
+173896,Luther Seminary,Saint Paul,MN,44.984493,-93.1961418
+173902,Macalester College,Saint Paul,MN,44.9376942,-93.1692917
+173911,South Central College,North Mankato,MN,37.537426,-77.406088
+173920,Minnesota State University-Mankato,Mankato,MN,44.1453537,-93.9977525
+173957,Mayo Clinic College of Medicine and Science,Rochester,MN,44.0220738,-92.4654229
+174020,Metropolitan State University,Saint Paul,MN,44.9572249,-93.0741036
+174066,University of Minnesota-Twin Cities,Minneapolis,MN,44.9863392,-93.1794558
+174075,University of Minnesota-Crookston,Crookston,MN,47.8012259,-96.6066486
+174127,Minneapolis College of Art and Design,Minneapolis,MN,44.9566921,-93.27433
+174136,Minneapolis Community and Technical College,Minneapolis,MN,44.9780743,-93.2923878
+174154,Herzing University-Minneapolis,St. Louis Park,MN,40.593779,-75.389377
+174190,Minnesota School of Cosmetology-Woodbury Campus,WOODBURY,MN,44.093963,-91.748675
+174233,University of Minnesota-Duluth,Duluth,MN,46.8203898,-92.0852741
+174251,University of Minnesota-Morris,Morris,MN,45.5902344,-95.8993091
+174321,Model College of Hair Design,Saint Cloud,MN,45.5577178,-94.1594141
+174358,Minnesota State University Moorhead,Moorhead,MN,46.8672113,-96.7564124
+174376,North Hennepin Community College,Brooklyn Park,MN,45.105697,-93.3742022
+174428,Normandale Community College,Bloomington,MN,44.8300566,-93.3319253
+174437,North Central University,Minneapolis,MN,44.9688959,-93.2618548
+174473,Northland Community and Technical College,Thief River Falls,MN,47.9472832,-97.0163682
+174491,University of Northwestern-St Paul,Saint Paul,MN,32.868567,-117.228836
+174507,Northwestern Health Sciences University,Bloomington,MN,44.8504407,-93.3118391
+174525,Oak Hills Christian College,Bemidji,MN,41.927862,-86.460335
+174570,Pine Technical & Community College,Pine City,MN,45.8197116,-92.9677635
+174738,Rochester Community and Technical College,Rochester,MN,44.0166296,-92.4250149
+174747,College of Saint Benedict,Saint Joseph,MN,45.5594818,-94.3182963
+174756,St Cloud Technical and Community College,Saint Cloud,MN,33.543348,-91.627789
+174783,Saint Cloud State University,Saint Cloud,MN,45.5479988,-94.1511979
+174792,Saint Johns University,Collegeville,MN,34.0274492,-118.2756174
+174817,Saint Mary's University of Minnesota,Winona,MN,44.0453409,-91.6951877
+174844,St Olaf College,Northfield,MN,44.4640025,-93.1871791
+174862,Crown College,Saint Bonifacius,MN,37.0002729,-122.0546965
+174899,The College of Saint Scholastica,Duluth,MN,34.508987,-87.732889
+174914,University of St Thomas,Saint Paul,MN,44.9421058,-93.1894522
+174978,Empire Beauty School-Bloomington,Bloomington,MN,29.388486,-89.59783
+175005,St Catherine University,Saint Paul,MN,44.924437,-93.1822884
+175014,Rasmussen University-Minnesota,St. Cloud,MN,44.1686141,-93.9708191
+175041,Saint Paul College,Saint Paul,MN,44.9485125,-93.1136905
+175078,Southwest Minnesota State University,Marshall,MN,44.4574449,-95.7592368
+175120,Summit Academy Opportunities Industrialization Center,Minneapolis,MN,32.191864,-82.401888
+175139,United Theological Seminary of the Twin Cities,St. Paul,MN,44.9629138,-93.2041108
+175227,Dunwoody College of Technology,Minneapolis,MN,44.9731725,-93.2912267
+175236,Ridgewater College,Willmar,MN,44.8728111,-94.3725161
+175263,Minnesota State College Southeast,Winona,MN,44.093963,-91.748675
+175272,Winona State University,Winona,MN,44.0469203,-91.6440377
+175281,Mitchell Hamline School of Law,Saint Paul,MN,44.9421359,-93.1377148
+175315,Century College,White Bear Lake,MN,45.043077,-92.9818049
+175342,Alcorn State University,Alcorn State,MS,31.8767495,-91.1417967
+175421,Belhaven University,Jackson,MS,32.3201391,-90.1690572
+175430,Blue Mountain Christian University,Blue Mountain,MS,39.650749,-77.570439
+175494,Chris Beauty College,Gulfport,MS,37.838813,-82.439359
+175519,Coahoma Community College,Clarksdale,MS,34.2530663,-90.5685791
+175573,Copiah-Lincoln Community College,Wesson,MS,31.6887608,-90.3936987
+175616,Delta State University,Cleveland,MS,33.747589,-90.7329004
+175643,East Central Community College,Decatur,MS,32.4442966,-89.1119286
+175652,East Mississippi Community College,Scooba,MS,32.8305481,-88.486058
+175698,Fosters Cosmetology College,Ripley,MS,33.113925,-87.667367
+175722,Academy of Hair Design-Grenada,Grenada,MS,40.494475,-77.48319
+175786,Hinds Community College,Raymond,MS,32.26205,-90.0475241
+175810,Holmes Community College,Goodman,MS,33.7640343,-89.8205512
+175829,Itawamba Community College,Fulton,MS,34.2762011,-88.4159175
+175856,Jackson State University,Jackson,MS,32.2964092,-90.2074376
+175883,Jones County Junior College,Ellisville,MS,31.5947107,-89.2019321
+175935,Meridian Community College,Meridian,MS,32.368001,-88.7322742
+175980,Millsaps College,Jackson,MS,32.321939,-90.1798534
+176008,Mississippi Delta Community College,Moorhead,MS,33.4430538,-90.5003499
+176017,University of Mississippi,University,MS,34.3646125,-89.5396349
+176035,Mississippi University for Women,Columbus,MS,33.4908044,-88.4196624
+176044,Mississippi Valley State University,Itta Bena,MS,33.5112606,-90.3426333
+176053,Mississippi College,Clinton,MS,32.3354174,-90.3318824
+176062,Hatfield's Mississippi College of Beauty Culture,Laurel,MS,31.900265,-98.602778
+176071,Mississippi Gulf Coast Community College,Perkinston,MS,30.9012901,-88.5994717
+176080,Mississippi State University,Mississippi State,MS,33.4386876,-88.7943232
+176169,Northeast Mississippi Community College,Booneville,MS,34.6684279,-88.564807
+176178,Northwest Mississippi Community College,Senatobia,MS,34.6235605,-89.9741966
+176239,Pearl River Community College,Poplarville,MS,30.8448513,-89.5445413
+176318,Rust College,Holly Springs,MS,34.7762325,-89.4473185
+176336,Southeastern Baptist College,Laurel,MS,31.74839,-89.1491609
+176354,Southwest Mississippi Community College,Summit,MS,31.2932459,-90.4442369
+176372,University of Southern Mississippi,Hattiesburg,MS,31.3286452,-89.3367312
+176406,Tougaloo College,Tougaloo,MS,32.4039168,-90.1595745
+176433,Vaughn Beauty College,Aberdeen,MS,37.838813,-82.439359
+176451,Wesley Biblical Seminary,Ridgeland,MS,40.655806,-89.598703
+176479,William Carey University,Hattiesburg,MS,31.3037101,-89.2927639
+176600,Aquinas Institute of Theology,Saint Louis,MO,38.6344093,-90.2378116
+176628,Avila University,Kansas City,MO,38.9131585,-94.5914862
+176664,Baptist Bible College,Springfield,MO,37.2379781,-93.2850339
+176716,House of Heavilin Beauty College-Blue Springs,Blue Springs,MO,36.123037,-77.426918
+176770,Cox College,Springfield,MO,33.6559746,-84.4543022
+176789,Calvary University,Kansas City,MO,38.837399,-94.5467832
+176798,Cape Girardeau Career and Technology Center,Cape Girardeau,MO,37.2738889,-89.564897
+176910,Central Christian College of the Bible,Moberly,MO,39.3960492,-92.4271758
+176947,Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,46.717273,-122.964497
+176965,University of Central Missouri,Warrensburg,MO,38.7575157,-93.7408311
+176983,Grand River Technical School,Chillicothe,MO,39.798975,-93.5603347
+177038,Cleveland University-Kansas City,Overland Park,KS,38.9322187,-94.6797433
+177065,Columbia College,Columbia,MO,41.8753862,-87.6265202
+177083,Conception Seminary College,Conception,MO,40.240082,-94.6822203
+177092,Concordia Seminary,Saint Louis,MO,38.6382641,-90.3138989
+177117,Cottey College,Nevada,MO,37.8365603,-94.3711436
+177126,Covenant Theological Seminary,Saint Louis,MO,37.752352,-87.0911785
+177135,Crowder College,Neosho,MO,36.8139569,-94.3679951
+177144,Culver-Stockton College,Canton,MO,40.1288229,-91.5316408
+177214,Drury University,Springfield,MO,37.2182356,-93.2846472
+177250,East Central College,Union,MO,38.4287966,-90.9759451
+177278,Eden Theological Seminary,Webster Groves,MO,38.5933775,-90.344748
+177302,Pinnacle Career Institute,Kansas City,MO,34.825115,-92.490636
+177339,Evangel University,Springfield,MO,37.2209613,-93.262638
+177418,Fontbonne University,Saint Louis,MO,38.6416544,-90.3157008
+177436,Four Rivers Career Center,Washington,MO,38.5476747,-91.0209098
+177472,Ozarks Technical Community College,Springfield,MO,37.2166701,-93.2795511
+177542,Hannibal-LaGrange University,Hannibal,MO,39.7327178,-91.3909491
+177551,Harris-Stowe State University,Saint Louis,MO,38.6333552,-90.2243923
+177588,House of Heavilin Beauty College-Kansas City,Kansas City,MO,40.254528,-79.366288
+177603,Summit Salon Academy Kansas City,Independence,MO,41.141905,-80.677638
+177676,Jefferson College,Hillsboro,MO,38.2603041,-90.5586659
+177685,Paul Mitchell the School-Missouri Columbia,Columbia,MO,38.972079,-92.39752
+177719,Barnes-Jewish College Goldfarb School of Nursing,Saint Louis,MO,30.523038,-87.900446
+177746,Kansas City Art Institute,Kansas City,MO,39.0466979,-94.583175
+177816,Kenrick Glennon Seminary,Saint Louis,MO,38.5846604,-90.3238524
+177834,A T Still University of Health Sciences,Kirksville,MO,38.992516,-76.991021
+177931,Lex La-Ray Technical Center,Lexington,MO,39.1736529,-93.8655012
+177940,Lincoln University,Jefferson City,MO,39.8065518,-75.9287055
+177968,Lindenwood University,Saint Charles,MO,38.7755477,-90.3107525
+177977,State Technical College of Missouri,Linn,MO,38.4687474,-91.811955
+177986,Logan University,Chesterfield,MO,38.6328369,-90.5405612
+177995,Metropolitan Community College-Kansas City,Kansas City,MO,39.1381617,-94.5024275
+178059,Maryville University of Saint Louis,Saint Louis,MO,38.646532,-90.502416
+178077,Missouri College of Cosmetology and Esthetics,Jefferson City,MO,32.758338,-97.796632
+178183,Midwest Institute,Fenton,MO,38.5415117,-90.4624198
+178208,Midwestern Baptist Theological Seminary,Kansas City,MO,39.1871313,-94.5719153
+178217,Mineral Area College,Park Hills,MO,37.844746,-90.4811411
+178244,Missouri Baptist University,Saint Louis,MO,38.6419861,-90.4622981
+178341,Missouri Southern State University,Joplin,MO,37.0953607,-94.4576403
+178369,Missouri Valley College,Marshall,MO,39.1064411,-93.1907708
+178387,Missouri Western State University,Saint Joseph,MO,39.7582555,-94.7841439
+178396,University of Missouri-Columbia,Columbia,MO,38.9364147,-92.329703
+178402,University of Missouri-Kansas City,Kansas City,MO,39.0336761,-94.5780753
+178411,Missouri University of Science and Technology,Rolla,MO,37.9529059,-91.7738582
+178420,University of Missouri-St Louis,Saint Louis,MO,38.7086398,-90.3117145
+178448,Moberly Area Community College,Moberly,MO,39.4184473,-92.4549688
+178518,Nazarene Theological Seminary,Kansas City,MO,39.0091488,-94.5657355
+178527,Neosho Beauty College,Neosho,MO,36.836281,-94.381222
+178615,Truman State University,Kirksville,MO,40.1894762,-92.5818606
+178624,Northwest Missouri State University,Maryville,MO,40.3542262,-94.8862474
+178679,Ozark Christian College,Joplin,MO,37.1036582,-94.5116958
+178697,College of the Ozarks,Point Lookout,MO,36.617958,-93.2365038
+178721,Park University,Parkville,MO,39.1890087,-94.6725289
+178767,Stevens-The Institute of Business & Arts,Saint Louis,MO,45.901388,-99.811997
+178828,Poplar Bluff Technical Career Center,Poplar Bluff,MO,42.724163,-76.760513
+178891,Ranken Technical College,Saint Louis,MO,38.6534824,-90.2492178
+178989,Research College of Nursing,Kansas City,MO,39.006135,-94.5568447
+179043,Rockhurst University,Kansas City,MO,39.0308189,-94.570675
+179159,Saint Louis University,Saint Louis,MO,38.635359,-90.2318433
+179195,Salem College of Hairstyling,Rolla,MO,38.625465,-88.949497
+179265,University of Health Sciences and Pharmacy in St. Louis,Saint Louis,MO,37.571155,-77.53868
+179308,Saint Louis Community College,Bridgeton,MO,38.6467393,-90.2238439
+179317,Saint Paul School of Theology,Leawood,KS,45.208569,-122.92893
+179326,Southwest Baptist University,Bolivar,MO,37.6007601,-93.4087307
+179344,Missouri State University-West Plains,West Plains,MO,36.7299517,-91.8569684
+179511,St Louis College of Health Careers-St Louis,Saint Louis,MO,38.6315697,-90.2617283
+179539,State Fair Community College,Sedalia,MO,38.6963394,-93.2705851
+179548,Stephens College,Columbia,MO,38.9505943,-92.3229551
+179557,Southeast Missouri State University,Cape Girardeau,MO,37.3126218,-89.5311135
+179566,Missouri State University-Springfield,Springfield,MO,37.2017202,-93.2807714
+179645,Three Rivers College,Poplar Bluff,MO,36.7763518,-90.430561
+179715,North Central Missouri College,Trenton,MO,40.0776569,-93.6173456
+179812,Kansas City University,Kansas City,MO,39.106847,-94.561009
+179867,Washington University in St Louis,Saint Louis,MO,39.440657,-83.438451
+179894,Webster University,Saint Louis,MO,38.5887875,-90.3443641
+179946,Westminster College,Fulton,MO,41.1182434,-80.3286896
+179955,William Jewell College,Liberty,MO,39.2513794,-94.4112222
+179964,William Woods University,Fulton,MO,38.860319,-91.950181
+179991,Academy of Cosmetology Inc,Bozeman,MT,40.494475,-77.48319
+180054,Blackfeet Community College,Browning,MT,48.5523,-113.0087867
+180063,Butte Academy of Beauty Culture,Butte,MT,40.494475,-77.48319
+180081,Highlands College of Montana Tech,Butte,MT,45.9376976,-112.5097421
+180090,Crevier's Academy of Cosmetology Arts,Kalispell,MT,34.424104,-78.464629
+180106,Carroll College,Helena,MT,43.0039527,-88.2292641
+180151,Dawson Community College,Glendive,MT,47.0850984,-104.7258043
+180160,Chief Dull Knife College,Lame Deer,MT,45.6256159,-106.664594
+180179,Montana State University Billings,Billings,MT,45.797005,-108.5215582
+180197,Flathead Valley Community College,Kalispell,MT,48.2288092,-114.3258868
+180203,Aaniiih Nakoda College,Harlem,MT,48.4843493,-108.7587456
+180212,Fort Peck Community College,Poplar,MT,48.11356,-105.19287
+180249,Great Falls College Montana State University,Great Falls,MT,47.485976,-111.2700131
+180258,University of Providence,Great Falls,MT,47.4910998,-111.2704633
+180276,Helena College University of Montana,Helena,MT,46.595738,-112.0157702
+180328,Little Big Horn College,Crow Agency,MT,45.6031508,-107.456157
+180373,Miles Community College,Miles City,MT,46.405378,-105.8264263
+180416,Montana Technological University,Butte,MT,36.350077,-94.084892
+180461,Montana State University,Bozeman,MT,45.6638188,-111.0793057
+180489,The University of Montana,Missoula,MT,45.2096759,-112.6391549
+180522,Montana State University-Northern,Havre,MT,48.5412308,-109.6853331
+180595,Rocky Mountain College,Billings,MT,45.7970239,-108.5548196
+180647,Salish Kootenai College,Pablo,MT,47.5950499,-114.1067334
+180692,The University of Montana-Western,Dillon,MT,45.2096759,-112.6391549
+180814,Bellevue University,Bellevue,NE,41.1525221,-95.9220452
+180832,Clarkson College,Omaha,NE,41.2593737,-95.9754266
+180878,Bryan College of Health Sciences,Lincoln,NE,40.7967398,-96.6504406
+180902,Central Community College,Grand Island,NE,40.6868295,-99.1224396
+180948,Chadron State College,Chadron,NE,42.8174159,-102.9963155
+180957,College of Hair Design-Downtown,Lincoln,NE,32.973821,-111.445468
+180984,Concordia University-Nebraska,Seward,NE,40.9136406,-97.0875102
+181002,Creighton University,Omaha,NE,41.2658565,-95.9450555
+181020,Doane University,Crete,NE,40.6213154,-96.9471759
+181127,Hastings College,Hastings,NE,40.5943839,-98.3654967
+181145,CHI Health School of Radiologic Technology,Omaha,NE,40.850519,-73.635378
+181190,Joseph's College Cosmetology,Lincoln,NE,32.973546,-111.513116
+181215,University of Nebraska at Kearney,Kearney,NE,40.6989871,-99.110445
+181297,Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,41.2657787,-96.0483871
+181303,Metropolitan Community College Area,Omaha,NE,41.4375421,-96.4989094
+181312,Mid-Plains Community College,North Platte,NE,41.0924907,-100.7715341
+181330,Midland University,Fremont,NE,41.4386129,-96.4877065
+181394,University of Nebraska at Omaha,Omaha,NE,41.2577933,-96.0104971
+181419,Nebraska Indian Community College,Macy,NE,42.1167924,-96.3515254
+181428,University of Nebraska Medical Center,Omaha,NE,41.2548962,-95.9771025
+181446,Nebraska Wesleyan University,Lincoln,NE,40.8382721,-96.6479304
+181464,University of Nebraska-Lincoln,Lincoln,NE,40.8305567,-96.6697373
+181491,Northeast Community College,Norfolk,NE,42.0497194,-97.3955199
+181534,Peru State College,Peru,NE,40.4735064,-95.7311147
+181543,Summit Christian College,Gering,NE,41.8293566,-103.6757197
+181604,College of Saint Mary,Omaha,NE,41.2409476,-96.0211708
+181640,Southeast Community College Area,Lincoln,NE,33.623341,-91.789595
+181738,Union College,Lincoln,NE,42.8175752,-73.9283917
+181765,Nebraska College of Technical Agriculture,Curtis,NE,40.637213,-100.5091475
+181783,Wayne State College,Wayne,NE,42.2428103,-97.0134325
+181817,Western Nebraska Community College,Scottsbluff,NE,42.0974678,-102.8724227
+181853,York University,York,NE,32.915144,-109.197132
+181880,Academy of Hair Design-Las Vegas,Las Vegas,NV,40.494475,-77.48319
+181941,Career College of Northern Nevada,Sparks,NV,39.5409011,-119.7194003
+182005,College of Southern Nevada,Las Vegas,NV,36.0065097,-114.9658047
+182148,Las Vegas College,Las Vegas,NV,36.2213732,-115.1053823
+182281,University of Nevada-Las Vegas,Las Vegas,NV,36.1078263,-115.1418611
+182290,University of Nevada-Reno,Reno,NV,39.5442688,-119.8163105
+182306,Great Basin College,Elko,NV,40.8429466,-115.7663214
+182500,Truckee Meadows Community College,Reno,NV,39.572049,-119.7981617
+182564,Western Nevada College,Carson City,NV,39.1864064,-119.7905599
+182634,Colby-Sawyer College,New London,NH,43.4140912,-71.9753623
+182670,Dartmouth College,Hanover,NH,43.7046756,-72.2942089
+182704,Empire Beauty School-Laconia,Laconia,NH,29.388486,-89.59783
+182722,Empire Beauty School-Somersworth,Somersworth,NH,43.259329,-70.9042076
+182795,Franklin Pierce University,Rindge,NH,42.7793366,-72.0558917
+182829,University of New Hampshire-Franklin Pierce School of Law,Concord,NH,37.570304,-77.537784
+182892,Keene Beauty Academy,Keene,NH,37.838813,-82.439359
+182917,Magdalen College,Warner,NH,43.2900772,-71.822024
+182980,New England College,Henniker,NH,43.1761505,-71.8232982
+182999,New England School of Hair Design,West Lebanon,NH,43.6273743,-72.3214236
+183026,Southern New Hampshire University,Manchester,NH,43.0374605,-71.4478392
+183035,New Hampshire Institute for Therapeutic Arts,Nashua,NH,42.74523,-71.4266894
+183044,University of New Hampshire-Main Campus,Durham,NH,47.662374,-122.290702
+183062,Keene State College,Keene,NH,42.9252792,-72.2829616
+183071,University of New Hampshire at Manchester,Manchester,NH,42.9871385,-71.4687442
+183080,Plymouth State University,Plymouth,NH,43.7609047,-71.6808714
+183099,NHTI-Concord's Community College,Concord,NH,33.548636,-91.624958
+183105,White Mountains Community College,Berlin,NH,44.5035101,-71.1585465
+183114,River Valley Community College,Claremont,NH,42.9277309,-72.2809461
+183123,Lakes Region Community College,Laconia,NH,43.5079426,-71.4623998
+183132,Manchester Community College,Manchester,NH,41.7614377,-72.5622718
+183141,Nashua Community College,Nashua,NH,42.7979348,-71.5237629
+183150,Great Bay Community College,Portsmouth,NH,43.0720544,-70.799237
+183202,Paul Mitchell the School-Portsmouth,Portsmouth,NH,43.0758316,-70.7602881
+183211,Rivier University,Nashua,NH,42.7391231,-71.4546552
+183239,Saint Anselm College,Manchester,NH,42.9835576,-71.50775
+183248,St Joseph School of Nursing,Nashua,NH,29.494187,-89.709882
+183257,Granite State College,Concord,NH,43.1929746,-71.5272347
+183275,Thomas More College of Liberal Arts,Merrimack,NH,42.8067883,-71.483173
+183488,Eastwick College-Hackensack,Hackensack,NJ,43.61425,-71.00507
+183600,Assumption College for Sisters,Denville,NJ,40.7573543,-74.6026586
+183655,Atlantic Cape Community College,Mays Landing,NJ,39.4600639,-74.6799071
+183725,Fortis Institute-Wayne,Wayne,NJ,40.8854172,-74.2556455
+183743,Bergen Community College,Paramus,NJ,40.9501907,-74.0883598
+183789,Berkeley College-Woodland Park,Woodland Park,NJ,40.8992579,-74.1901614
+183804,Beth Medrash Govoha,Lakewood,NJ,40.1007312,-74.2201658
+183822,Bloomfield College,Bloomfield,NJ,40.7951985,-74.1938246
+183859,Brookdale Community College,Lincroft,NJ,40.3258392,-74.1314935
+183877,Rowan College at Burlington County,Mount Laurel,NJ,39.9723832,-74.8935442
+183910,Caldwell University,Caldwell,NJ,40.8339079,-74.2713297
+183938,Camden County College,Blackwood,NJ,39.7848574,-75.0390822
+183974,Centenary University,Hackettstown,NJ,40.8470669,-74.8351007
+183983,Adult and Continuing Education-BCTS,Hackensack,NJ,35.416288,-108.2997
+184056,Lincoln Technical Institute-Iselin,Iselin,NJ,35.471489,-81.23668
+184092,American Institute-Clifton,CLIFTON,NJ,38.700496,-75.861083
+184180,County College of Morris,Randolph,NJ,40.8582439,-74.5799673
+184205,Rowan College of South Jersey-Cumberland Campus,Vineland,NJ,32.973525,-111.515363
+184348,Drew University,Madison,NJ,40.7605379,-74.4281605
+184427,Lincoln Technical Institute-South Plainfield,South Plainfield,NJ,35.471489,-81.23668
+184481,Essex County College,Newark,NJ,40.7388594,-74.1782
+184506,Empire Beauty School-Union,Union,NJ,29.388486,-89.59783
+184603,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,40.8980727,-74.0307211
+184612,Felician University,Lodi,NJ,40.8304599,-74.1123352
+184694,Fairleigh Dickinson University-Florham Campus,Madison,NJ,40.593889,-75.387264
+184746,Hohokus School of Trade and Technical Sciences,Paterson,NJ,40.9089776,-74.1518084
+184773,Georgian Court University,Lakewood,NJ,40.0981853,-74.2282
+184782,Rowan University,Glassboro,NJ,39.7103526,-75.1193267
+184791,Rowan College of South Jersey-Gloucester Campus,Sewell,NJ,32.973525,-111.515363
+184816,Empire Beauty School-Cherry Hill,Cherry Hill,NJ,29.389146,-89.59877
+184959,Eastwick College-Ramsey,Ramsey,NJ,43.61425,-71.00507
+184968,Holy Name Medical Center-Sister Claire Tynan School of Nursing,Englewood Cliffs,NJ,32.38568,-106.80831
+184995,Hudson County Community College,Jersey City,NJ,40.7823256,-74.0232347
+185129,New Jersey City University,Jersey City,NJ,40.7098627,-74.0876608
+185174,Joe Kubert School of Cartoon and Graphic Art,Dover,NJ,40.662939,-89.522708
+185262,Kean University,Union,NJ,40.6792963,-74.2352947
+185396,Lincoln Technical Institute-Union,Union,NJ,40.7066524,-74.2750448
+185466,Rizzieri Aveda School for Beauty and Wellness,Voorhees,NJ,48.69849,-122.904883
+185509,Mercer County Community College,West Windsor,NJ,40.2554361,-74.6499884
+185536,Middlesex College,Edison,NJ,40.5054276,-74.3663357
+185572,Monmouth University,West Long Branch,NJ,40.2794106,-74.0068022
+185590,Montclair State University,Montclair,NJ,40.8646878,-74.1969213
+185679,JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools,Plainfield,NJ,43.531312,-124.21637
+185721,Eastwick College-Nutley,Nutley,NJ,43.61425,-71.00507
+185758,New Brunswick Theological Seminary,New Brunswick,NJ,40.5013511,-74.449428
+185767,Robert Fiance Beauty Schools-West New York,West New York,NJ,40.710222,-74.001102
+185828,New Jersey Institute of Technology,Newark,NJ,40.7421254,-74.1790316
+185873,Ocean County College,Toms River,NJ,40.0093212,-74.1663622
+185970,P B Cosmetology Education Center,Gloucester,NJ,32.218607,-82.40845
+186016,Parisian Beauty School,Hackensack,NJ,37.838813,-82.439359
+186034,Passaic County Community College,Paterson,NJ,40.9287319,-74.2011589
+186052,Pennco Tech-Blackwood,Blackwood,NJ,39.8078174,-75.0608816
+186122,Princeton Theological Seminary,Princeton,NJ,40.344537,-74.6641629
+186131,Princeton University,Princeton,NJ,40.3386752,-74.6583655
+186186,Rabbinical College of America,Morristown,NJ,40.8061235,-74.4985416
+186201,Ramapo College of New Jersey,Mahwah,NJ,41.0822445,-74.1738235
+186274,Robert Fiance Beauty Schools,Boynton Beach,FL,32.593638,-81.203259
+186283,Rider University,Lawrenceville,NJ,40.2815512,-74.7404467
+186371,Rutgers University-Camden,Camden,NJ,39.9483613,-75.1226986
+186380,Rutgers University-New Brunswick,New Brunswick,NJ,40.4976786,-74.4460046
+186399,Rutgers University-Newark,Newark,NJ,40.740687,-74.174889
+186405,Capital Health School of Radiologic Technology,Trenton,NJ,38.884785,-76.913628
+186423,Capital Health School of Nursing,Trenton,NJ,38.885453,-76.913625
+186432,Saint Peter's University,Jersey City,NJ,40.7276245,-74.0721679
+186469,Salem Community College,Carneys Point,NJ,39.7001803,-75.4700909
+186584,Seton Hall University,South Orange,NJ,40.7433314,-74.2468921
+186593,Shore Beauty School,Egg Harbor Township,NJ,37.838813,-82.439359
+186618,Saint Elizabeth University,Morristown,NJ,37.6777917,-97.4631018
+186645,Raritan Valley Community College,Branchburg,NJ,40.6100961,-74.6882225
+186867,Stevens Institute of Technology,Hoboken,NJ,40.7448096,-74.0252392
+186876,Stockton University,Galloway,NJ,39.4900756,-74.5340195
+186900,Talmudical Academy-New Jersey,Adelphia,NJ,40.2175038,-74.2496813
+187000,Aviation Institute of Maintenance-Teterboro,Teterboro,NJ,35.313271,-77.783597
+187046,Thomas Edison State University,Trenton,NJ,40.2204091,-74.768485
+187134,The College of New Jersey,Ewing,NJ,40.2685515,-74.7779768
+187198,Union County College,Cranford,NJ,40.665625,-74.3241558
+187444,William Paterson University of New Jersey,Wayne,NJ,40.9675024,-74.2225649
+187505,Olympian Academy of Cosmetology,Alamogordo,NM,40.494475,-77.48319
+187532,Central New Mexico Community College,Albuquerque,NM,34.9959837,-106.6924494
+187596,Navajo Technical University,Crownpoint,NM,35.6870811,-108.1473593
+187620,New Mexico State University-Dona Ana,Las Cruces,NM,32.2729032,-106.7434927
+187639,Clovis Community College,Clovis,NM,34.4031784,-103.1653315
+187648,Eastern New Mexico University-Main Campus,Portales,NM,40.593686,-75.390027
+187666,Eastern New Mexico University-Roswell Campus,Roswell,NM,39.16037,-86.524005
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,Santa Fe,NM,38.166055,-122.266393
+187897,New Mexico Highlands University,Las Vegas,NM,35.5982253,-105.2227839
+187903,New Mexico Junior College,Hobbs,NM,32.7578619,-103.1837931
+187912,New Mexico Military Institute,Roswell,NM,33.4114651,-104.5251505
+187958,University of New Mexico-Gallup Campus,Gallup,NM,47.662374,-122.290702
+187967,New Mexico Institute of Mining and Technology,Socorro,NM,35.341039,-77.675013
+187976,University of New Mexico-Los Alamos Campus,Los Alamos,NM,37.570304,-77.537784
+187985,University of New Mexico-Main Campus,Albuquerque,NM,37.570304,-77.537784
+187994,New Mexico State University-Alamogordo,Alamogordo,NM,32.9191517,-105.9260629
+188003,Southeast New Mexico College,Carlsbad,NM,35.227139,-90.80185
+188021,New Mexico State University-Grants,Grants,NM,35.1664583,-107.842762
+188030,New Mexico State University-Main Campus,Las Cruces,NM,40.593686,-75.390027
+188049,University of New Mexico-Valencia County Campus,Los Lunas,NM,32.868567,-117.228836
+188058,Northern New Mexico College,Espanola,NM,36.0029219,-106.0833061
+188100,San Juan College,Farmington,NM,36.7703909,-108.1698916
+188137,Santa Fe Community College,Santa Fe,NM,35.603432,-105.993333
+188182,University of the Southwest,Hobbs,NM,32.868567,-117.228836
+188207,Southwestern College,Santa Fe,NM,37.2492453,-96.9740191
+188216,Southwestern Indian Polytechnic Institute,Albuquerque,NM,40.301646,-79.537354
+188225,University of New Mexico-Taos Campus,Ranchos de Taos,NM,37.570304,-77.537784
+188261,Mesalands Community College,Tucumcari,NM,35.1704383,-103.7359897
+188289,Vogue College of Cosmetology-Santa Fe,Santa Fe,NM,41.18163,-91.995746
+188304,Western New Mexico University,Silver City,NM,32.7774008,-108.2856984
+188340,Vaughn College of Aeronautics and Technology,Flushing,NY,40.7680356,-73.8821849
+188429,Adelphi University,Garden City,NY,40.7197638,-73.6519719
+188438,SUNY Adirondack,Queensbury,NY,43.3529381,-73.6533733
+188517,Bryant & Stratton College-Albany,Albany,NY,42.6980024,-73.8097717
+188526,Albany College of Pharmacy and Health Sciences,Albany,NY,42.6495229,-73.7783685
+188535,Albany Law School,Albany,NY,42.6515463,-73.7774616
+188580,Albany Medical College,Albany,NY,42.6541229,-73.7773453
+188641,Alfred University,Alfred,NY,42.255862,-77.7857087
+188650,Allen School-Brooklyn,Brooklyn,NY,34.428072,-86.539181
+188669,The Ailey School,New York,NY,43.59861,-123.350505
+188678,American Academy of Dramatic Arts-New York,New York,NY,40.7455156,-73.9847757
+188687,American Academy McAllister Institute of Funeral Service,New York,NY,38.165394,-122.249301
+188696,Joffrey Ballet School,New York,NY,40.7345704,-73.9986472
+188854,American Musical and Dramatic Academy,New York,NY,40.7723048,-73.9875717
+188890,Apex Technical School,Long Island City,NY,40.7517891,-73.9438384
+188915,Arnot Ogden Medical Center,Elmira,NY,42.1001845,-76.8272709
+188942,Associated Beth Rivkah Schools,Brooklyn,NY,43.94226,-69.83833
